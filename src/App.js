@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is the other feature component.</p>
+        <p>This is the other feature component. Another Change.</p>
         <a
           className="App-link"
           href="https://reactjs.org"

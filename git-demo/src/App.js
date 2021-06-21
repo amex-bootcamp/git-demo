@@ -1,6 +1,5 @@
-git import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
-import Game from './components/Game/Game';
 
 function App() {
   return (
@@ -22,9 +21,5 @@ function App() {
     </div>
   );
 }
-ReactDOM.render(
-  <Game/>,
-  document.getElementById('root')
-);
 
 export default App;
